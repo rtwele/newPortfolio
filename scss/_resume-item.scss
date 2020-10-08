@@ -3,7 +3,9 @@ section.resume-section {
   padding-bottom: 5rem !important;
   max-width: 75rem;
   .resume-item {
-    .resume-content {}
+    .resume-content {
+      min-width: none;
+    }
     .resume-date {
       min-width: none;
     }
